@@ -2,12 +2,12 @@
 
 Study on Python Grammar
 
-# Schedule
+### Schedule
 
 < 6/20 ~ 7/14 >
 
 
-# Progress
+### Progress
 
 Personalize 
 
